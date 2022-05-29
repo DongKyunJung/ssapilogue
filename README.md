@@ -1,4 +1,4 @@
-<h1> SSAPILOGUE
+<h1> SSAPILOGUE </h1>
 
 > **SSAFY + Epilogue**
 >
